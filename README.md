@@ -1,3 +1,5 @@
 # android-training-git
-This is training part about git command 
-this is test repo for git command
+hi this was created by mr. Satis tiwari
+now come to enjoy the party
+
+
