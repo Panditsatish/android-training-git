@@ -1,3 +1,11 @@
 # android-training-git
-This is training part about git command 
-this is test repo for git command
+now i am  pushing the new class
+public class add{
+
+public add(int a ,int b){
+System.out.println("sum ="+a+b);
+
+}
+
+}
+
